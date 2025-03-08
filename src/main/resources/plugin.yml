@@ -1,0 +1,10 @@
+name: TrowelPlugin
+version: 1.0
+main: de.fabi.trowel.TrowelPlugin
+api-version: 1.21
+author: Fabii08
+commands:
+  givetrowel:
+    description: Gives the player a trowel.
+    usage: /givetrowel
+    permission: trowel.give
