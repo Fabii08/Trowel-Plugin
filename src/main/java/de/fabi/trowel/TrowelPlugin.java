@@ -1,11 +1,6 @@
 /*
-Copyright © 2025 https://github.com/Fabii08?tab=repositories
-All rights reserved.
-
-Unauthorized copying, modification, or distribution of this file,
-via any medium, is strictly prohibited.
-
-DO NOT DISTRIBUTE.
+Copyright © 2025 https://github.com/Fabii08?tab=repositories  
+All rights reserved.  
 */
 package de.fabi.trowel;
 
